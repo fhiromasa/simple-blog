@@ -1,6 +1,7 @@
 {
   "name": "nextjs-simple-blog-template",
   "version": "0.1.0",
+  "description": "simple-blog をVercelにデプロイしています。",
   "private": true,
   "scripts": {
     "dev": "next dev",
